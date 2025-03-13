@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #F8F1E7 !important;
+}
+/* header start  */
+header .fot{
+    font-family: "Emblema One", system-ui;
+    font-weight: 700;
+    font-style: normal;
+}
+/* header end  */
